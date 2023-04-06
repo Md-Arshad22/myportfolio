@@ -1,0 +1,84 @@
+/* *{
+    scroll-behavior: smooth;
+}
+
+html::-webkit-scrollbar {
+    display: none;
+} */
+
+#main-nav {
+    background-color: transparent;
+    background-color: bisque;
+}
+ 
+
+section {
+    height: 100vh;
+}
+
+#Home {
+    background-image: url(bg.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: antiquewhite;
+
+}
+ 
+span {
+    color: orangered;
+}
+
+.custom-col {
+margin-top: 25%;
+margin-left: 200px;
+}
+
+i{
+    color: black;
+}
+img {
+    filter: grayscale(1);
+}
+.img-hero {
+    height: auto;
+}
+
+.specing {
+    margin-top: 10%;
+}
+
+.card-icon{
+    font-size: 3rem;
+}
+
+.block{
+    height: .3rem;
+    width: 6rem;
+    background-color: black;
+    margin-top: auto;
+    margin-left: 500px;
+    margin-bottom: 2rem;
+    opacity: 0.5;
+}
+
+ 
+
+#anu{
+    margin-top: 20px;
+    background-color: bisque;
+    background-size: cover;
+    
+}
+
+#images{
+    height: 200px;
+    width: 300px;
+    margin-left: 100px;
+}
+
+.containers{
+    background-image: url(bg.jpg);
+}
+
+ 
